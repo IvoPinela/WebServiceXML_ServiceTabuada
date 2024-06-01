@@ -1,7 +1,7 @@
 # Descrição do Projeto
 Neste Projeto iremos realizar a implementação de um sistema de serviços web baseado em Python, utilizando XML como formato de comunicação entre cliente e os servidores. O objetivo principal é criar uma arquitetura capaz de fornecer a tabuada de um número inteiro inserido pelo cliente. Haverá um mecanismo de registo de serviços entre 2 servidores distintos. Além disso, estabelecemos a comunicação com o servidor de serviços por meio de requisições SOAP (Simple Object Access Protocol), permitindo que os clientes solicitem a tabuada de um número específico e recebam as respostas formatadas em XML.
 
-#Arquitetura do Projeto
+# Arquitetura do Projeto
 
 A arquitetura implementada  é constituída por 3 intervenientes nomeadamente: o provider, o client e o  server pubisher.
 
